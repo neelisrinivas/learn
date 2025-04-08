@@ -2,4 +2,8 @@
 -> Install git.
 
 
+-> Git push
+
+git remote set-url origin https://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@github.com/neelisrinivas/learn
+git push origin main
 
